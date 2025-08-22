@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "68a6865c9a265058cf271471"
+  },
+  "raza": "Orco",
+  "clase": "Guerrero",
+  "edad": 120,
+  "arma": "Hacha",
+  "nombre": "Omar"
+},
+{
+  "_id": {
+    "$oid": "68a6865c9a265058cf271472"
+  },
+  "raza": "Humano",
+  "clase": "Paladin",
+  "edad": 27,
+  "arma": "Lanza",
+  "nombre": "Lancelod"
+},
+{
+  "_id": {
+    "$oid": "68a6865c9a265058cf271473"
+  },
+  "raza": "Humano",
+  "clase": "Cazador",
+  "edad": 21,
+  "arma": "Cuchillo",
+  "nombre": "Rash"
+},
+{
+  "_id": {
+    "$oid": "68a6865c9a265058cf271474"
+  },
+  "raza": "Elfo",
+  "clase": "Explorador",
+  "edad": 240,
+  "arma": "Arco",
+  "nombre": "Eliot"
+},
+{
+  "_id": {
+    "$oid": "68a6865c9a265058cf271475"
+  },
+  "raza": "Humana",
+  "clase": "Maga",
+  "edad": 34,
+  "arma": "Cayado",
+  "nombre": "Miriam"
+}]
